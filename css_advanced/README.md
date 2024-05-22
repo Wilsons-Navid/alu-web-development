@@ -1,3 +1,4 @@
+![Advanced CSS](https://github.com/Wilsons-Navid/alu-web-development/assets/111211087/517efbe6-6f80-4b0d-b4ff-aad746b5c3bd)
 0. README and objectives!
 mandatory
 This project is following the HTML, advanced project - please make sure all tasks of this previous one are fully done.
