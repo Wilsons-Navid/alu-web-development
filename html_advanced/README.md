@@ -7,7 +7,7 @@ This designer file will be available on Figma - feel free to create an account t
 Page in Figma
 fig file
 And “Duplicate to your Drafts” to have access to all design details.
-![HTML STRUCTURE](/c/Users/LENOVO/Downloads/559ad8d43fb61e310e2b.png, iVBORw0KGgoAAAANSUhEUgAAAlwAAAIICAYAAAC7AzBRAAAMKWlDQ1BJQ0MgUHJv
+![HTML STRUCTURE](/c/Users/LENOVO/Downloads/559ad8d43fb61e310e2b.png;base64,iVBORw0KGgoAAAANSUhEUgAAAlwAAAIICAYAAAC7AzBRAAAMKWlDQ1BJQ0MgUHJv
 ZmlsZQAASImVlwdUk8kWgOcvqSS0QASkhN5EkV6khhZBQKpgIySBhBJiQhCxo4sK
 rAUVC1Z0VUTRtQCy2LCXRcFeF0RUlHWxYEPlTRJAn5733nn3nPn/L3fu3Ln3Zv45
 MwBoRHMlkixUE4Bsca40JjSQNSEpmUV6DBCAAjIwA55cnkwSEB0dAaAMvv9d3t2E
